@@ -1,0 +1,3 @@
+2022-11-27 19:27:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.age,u1_0.date_birth,u1_0.email,u1_0.last_name,u1_0.name from users u1_0 [42104-214]
